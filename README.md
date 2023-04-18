@@ -2,7 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin%20-%23007ACC.svg?&style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/brunomello-xd)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp%20-%23007ACC.svg?&style=flat&logo=whatsapp&logoColor=white&color=25D366)](https://api.whatsapp.com/send?phone=5519997119007)
-[![Instagram Badge](https://img.shields.io/badge/Instagram%20-%23007ACC.svg?&style=flat&logo=instagram&logoColor=white&color=E4405F)](https://www.instagram.com/brunomello_o/)
 
 ## About me
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
