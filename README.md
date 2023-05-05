@@ -14,5 +14,5 @@
 [![React Badge](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![Postgres Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-## My Git Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunomelloxD&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats
+[![Top Langs](https://github-readme-stats-omega-ten-62.vercel.app/api/top-langs/?username=BrunomelloxD&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
