@@ -1,6 +1,7 @@
 <h1>Hi there! :wave:</h1>
 
-[![Linkedin: Bruno Mello](https://img.shields.io/badge/brunomelloxd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[brunomelloxd](https://www.linkedin.com/in/brunomelloxd/))](brunomelloxd)
+[![Linkedin: Bruno Mello](https://img.shields.io/badge/-brunomelloxd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomelloxd/)](https://www.linkedin.com/in/brunomelloxd/)
+
 
 I'm a web developer. I'm interested in development, <br />and building thriving online communities. I work on random projects in my free time.
 #
