@@ -1,4 +1,4 @@
-<h1>Hi there! :wave:</h1>
+# Hi there! :wave:
 
 [![Linkedin: Bruno Mello](https://img.shields.io/badge/-brunomelloxd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomelloxd/)](https://www.linkedin.com/in/brunomelloxd/)
 
@@ -16,4 +16,4 @@ I'm a web developer. I'm interested in development, <br />and building thriving 
 
 [![Top Langs](https://github-readme-stats-omega-ten-62.vercel.app/api/top-langs/?username=BrunomelloxD&show_icons=true&theme=default&hide=java,html&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
-**God bless you!** :pray:
+## God bless you! :pray:
