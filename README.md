@@ -2,7 +2,9 @@
 
 [![Linkedin: Bruno Mello](https://img.shields.io/badge/-brunomelloxd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomelloxd/)](https://www.linkedin.com/in/brunomelloxd/)
 
-I'm a web developer. I'm interested in development, <br />and building thriving online communities. I work on random projects in my free time.
+**I'm a developer working in Mococa - São Paulo, Brazil.** 
+<br />
+**I'm interested in development and building thriving online communities. I work on random projects in my free time.**
 <br />
 <h4 align="center">
     ⚙️ Languages and Tools
