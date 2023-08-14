@@ -11,7 +11,7 @@
 </h4>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vite,react,nextjs,ts,nodejs,php,docker,wordpress,linux,vscode,postman&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vite,react,nextjs,ts,nodejs,php,symfony,docker,wordpress,linux,vscode,postman&theme=light" />
 </p>
 
 <h4>GitHub Stats</h4>
