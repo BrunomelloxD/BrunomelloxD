@@ -6,7 +6,7 @@ Olá!👋 Eu sou Bruno Mello Desenvolvedor de software.
 <br />
 🚀 Pós graduado em Engenharia da Computação.
 <br />
-<br />
 🚀 Pós graduado em Engenharia de Software
+<br />
 <br />
 🌱 Trabalho como Desenvolvedor Fullstasck Node, Php e React
